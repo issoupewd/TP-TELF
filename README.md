@@ -1,2 +1,3 @@
-# TP-TELF
-This repository is designed to assist second-year (L2) students majoring in telecommunications at USTHB. It will contain various documents related to the TELF lab, from preparation to simulation and other relevant topics. Please note that this repository is not intended to provide ready-to-copy lab work but rather to aid you in completing your lab.
+# introduction 
+
+I like sharing knowledge, but what I dislike is when that knowledge is copied without understanding it. That's why I won't provide all the work but rather share some of it to encourage active engagement. It is important to focus on completing your lab work and learn tools such as simulation (e.g., Proteus), working with signal generators (GBF), and using an oscilloscope. These skills will be valuable in other labs and during the first semester of the third year and they are a must for an electrical engineering student.
